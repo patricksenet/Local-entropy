@@ -3,10 +3,11 @@ The software and associated documentation files (the "Software") are available u
 
 You are free to share, copy and redistribute the material in any medium or format under the following terms:
 
-Attribution:  You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You must cite the following references in any publication using the software:
+Attribution:  You must give appropriate credit, provide a link to the license (https://doi.org/10.5281/zenodo.16911661), and indicate if changes were made.
+You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
+You must also cite the following references in any publication using the software:
 (i)  "Local entropy in proteins" by Patrick Senet, Adrien Guzzo, Patrice Delarue, Christophe Laforge, Gia G. Maisuradze, Jean-Marie Heydel, Fabrice Neiers, and Adrien Nicolaï, preprint on ChemRxiv, https://doi.org/10.26434/chemrxiv-2025-qcd4w
-(ii) "Einstein model of a graph to characterize protein folded/unfolded states" by Steve Tyler, Christophe Laforge, Adrien Nicolaï, Gia G. Maisuradze, and Patrick Senet
-Molecules 2023, 28, 6659, https://doi.org/10.3390/molecules28186659
+(ii) "Einstein model of a graph to characterize protein folded/unfolded states" by Steve Tyler, Christophe Laforge, Adrien Nicolaï, Gia G. Maisuradze, and Patrick Senet, Molecules 2023, 28, 6659, https://doi.org/10.3390/molecules28186659
 
 NonCommercial: You may not use the material for commercial purposes.
 
